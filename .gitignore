@@ -1,0 +1,5 @@
+*.o
+*.a
+lib/
+bin/
+fiber_io_test.tmp
